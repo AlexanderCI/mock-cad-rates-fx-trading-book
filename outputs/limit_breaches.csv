@@ -1,0 +1,2 @@
+limit_name,actual,threshold,comment
+SINGLE_COUNTERPARTY_EXPOSURE,68037150.0,12000000.0,DealerA over cpty exposure limit

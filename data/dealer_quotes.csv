@@ -1,0 +1,23 @@
+trade_id,dealer,quote_date,bid,ask,mid,notes
+T001,DealerA,2026-05-22,99.49,99.55,99.52,trade dealer
+T001,DealerB,2026-05-22,99.48,99.56,99.52,fine
+T001,DealerC,2026-05-20,99.42,99.6,99.51,older but usable maybe
+T002,DealerA,2026-05-22,100.49,100.61,100.55,fine
+T002,DealerB,2026-05-22,100.51,100.59,100.55,trade dealer
+T002,DealerD,2026-05-19,100.2,100.72,100.46,wide and stale
+T003,DealerA,2026-05-22,103.28,103.35,103.315,fine
+T003,DealerC,2026-05-22,103.27,103.34,103.305,trade dealer
+T004,DealerA,2026-05-22,1.3708,1.3716,1.3712,spot
+T004,DealerB,2026-05-22,1.3707,1.3718,1.37125,spot
+T005,DealerA,2026-05-22,1.4945,1.4958,1.49515,forward est
+T005,DealerD,2026-05-22,1.4947,1.4956,1.49515,trade dealer
+T006,DealerB,2026-05-22,0.0313,0.0317,0.0315,3y swap
+T006,DealerC,2026-05-22,0.0312,0.0318,0.0315,3y swap
+T007,DealerB,2026-05-22,0.0333,0.0338,0.03355,5y swap
+T007,DealerC,2026-05-21,0.0332,0.0339,0.03355,5y swap
+T008,DealerA,2026-05-22,100.01,100.15,100.08,bond forward
+T008,DealerD,2026-05-22,100.02,100.16,100.09,trade dealer
+T009,DealerA,2026-05-22,96.48,96.54,96.51,future
+T009,DealerC,2026-05-18,96.21,96.8,96.505,stale wide
+T010,DealerB,2026-05-22,1.7312,1.7327,1.73195,trade dealer
+T010,DealerD,2026-05-22,1.731,1.733,1.732,wide

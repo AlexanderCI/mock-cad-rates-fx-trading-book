@@ -1,0 +1,11 @@
+trade_id,trade_date,instrument_type,side,currency,counterparty,notional,quantity,coupon_rate,maturity_years,trade_yield,current_yield,trade_price,current_price,fx_pair,trade_fx_rate,current_fx_rate,forward_points,fixed_rate,curve_tenor_years,contract_price,futures_price,book
+T001,2026-05-20,GOC_BOND,BUY,CAD,DealerA,5000000,5000000,0.0275,2.0,0.031,0.0302,99.35,99.52,,,,,,2.0,,,CAD_RATES
+T002,2026-05-19,GOC_BOND,BUY,CAD,DealerB,7500000,7500000,0.035,5.0,0.0345,0.0336,100.18,100.55,,,,,,5.0,,,CAD_RATES
+T003,2026-05-18,GOC_BOND,SELL,CAD,DealerC,3000000,3000000,0.041,10.0,0.0368,0.0374,103.72,103.31,,,,,,10.0,,,CAD_RATES
+T004,2026-05-21,FX_SPOT,BUY,CAD,DealerA,2000000,0,,0,,,,,USD/CAD,1.365,1.3712,,,,,,FX
+T005,2026-05-21,FX_FORWARD,SELL,CAD,DealerD,1500000,0,,0,,,,,EUR/CAD,1.4855,1.491,42,,,,,FX
+T006,2026-05-17,IRS,RECEIVE_FIXED,CAD,DealerB,10000000,0,,3.0,,,,,,,,,0.034,3.0,,,SWAPS
+T007,2026-05-17,IRS,PAY_FIXED,CAD,DealerC,8000000,0,,5.0,,,,,,,,,0.0365,5.0,,,SWAPS
+T008,2026-05-22,BOND_FORWARD,BUY,CAD,DealerD,4000000,4000000,0.03,4.0,0.033,0.0321,99.82,100.09,,,,,,4.0,100.05,,CAD_RATES
+T009,2026-05-22,IR_FUTURE,SELL,CAD,DealerA,2500000,25,,0.25,,,,,,,,,,0.25,,96.42,FUTURES
+T010,2026-05-15,FX_FORWARD,BUY,CAD,DealerB,1200000,0,,0,,,,,GBP/CAD,1.742,1.7335,-18,,,,,FX

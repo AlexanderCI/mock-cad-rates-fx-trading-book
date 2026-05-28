@@ -1,0 +1,6 @@
+limit_name,scope,threshold,unit
+CAD_RATES_DV01,book,6500,CAD per bp
+FX_NET_EXPOSURE,book,3500000,CAD equiv
+SINGLE_COUNTERPARTY_EXPOSURE,counterparty,12000000,CAD equiv
+DAILY_LOSS_LIMIT,book,-150000,CAD
+VAR_99_LIMIT,book,180000,CAD

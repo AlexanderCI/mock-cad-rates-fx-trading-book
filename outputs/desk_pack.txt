@@ -1,0 +1,21 @@
+Mock desk pack - valuation date 2026-05-22
+
+quick numbers
+total mtm pnl: -58,659.98
+net dv01: 1,913.12
+net fx exposure: 2,577,640.00
+
+risk summary
+VaR 95: 61,060.51 (historical shock file, not a real VaR engine)
+ES 95: 68,732.40 (average loss past the VaR cut)
+VaR 99: 67,198.02 (historical shock file, not a real VaR engine)
+ES 99: 68,732.40 (average loss past the VaR cut)
+Total MTM PnL: -58,659.98 (sum of row PnL)
+Net DV01: 1,913.12 (CAD per bp, approximate)
+Gross Position Value: 87,174,421.70 (abs market value)
+Net FX Exposure: 2,577,640.00 (CAD equivalent)
+
+things to check
+blotter - T002: stale quote (DealerD quote is 3 days old)
+blotter - T009: stale quote (DealerC quote is 4 days old)
+limit - SINGLE_COUNTERPARTY_EXPOSURE: actual 68,037,150.00, limit 12,000,000.00

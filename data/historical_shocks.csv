@@ -1,0 +1,21 @@
+shock_id,cad_rate_shock_bp,usd_cad_ret,eur_cad_ret,gbp_cad_ret,notes
+S001,-12,-0.003,-0.002,-0.004,risk on
+S002,8,0.002,0.001,0.002,quiet up
+S003,15,0.004,0.003,0.005,rates up
+S004,-20,-0.006,-0.004,-0.007,rates down fx softer
+S005,32,0.009,0.006,0.01,bad inflation print
+S006,45,0.015,0.01,0.017,stress day
+S007,-35,-0.012,-0.008,-0.014,flight to quality
+S008,5,0.001,0.0,-0.001,small
+S009,22,0.006,0.004,0.006,bear steepener-ish
+S010,-8,-0.002,-0.003,-0.002,small rally
+S011,60,0.022,0.016,0.025,big stress
+S012,-55,-0.018,-0.014,-0.02,big rally
+S013,12,0.003,0.002,0.004,normal
+S014,28,0.008,0.005,0.007,weak cad
+S015,-25,-0.007,-0.006,-0.008,risk off rally
+S016,40,0.014,0.009,0.015,liquidity squeeze
+S017,-5,-0.001,0.0,-0.001,quiet
+S018,18,0.005,0.003,0.004,front end reprices
+S019,75,0.03,0.022,0.035,tail stress
+S020,-70,-0.024,-0.02,-0.028,tail rally

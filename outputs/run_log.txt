@@ -1,0 +1,4 @@
+done - check the outputs folder
+trades priced: 10
+total pnl: -58,659.98
+issues found: 3

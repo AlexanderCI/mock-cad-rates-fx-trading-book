@@ -1,0 +1,9 @@
+metric,value_cad,comment
+VaR 95,61060.513199577574,"historical shock file, not a real VaR engine"
+ES 95,68732.40197478712,average loss past the VaR cut
+VaR 99,67198.0242197452,"historical shock file, not a real VaR engine"
+ES 99,68732.40197478712,average loss past the VaR cut
+Total MTM PnL,-58659.98112416046,sum of row PnL
+Net DV01,1913.1194929971616,"CAD per bp, approximate"
+Gross Position Value,87174421.69857092,abs market value
+Net FX Exposure,2577640.0,CAD equivalent
